@@ -1,5 +1,3 @@
-# Skier
-# a skier game with pygame
 import pygame, sys, random                                  #导入模块
 skier_images = ["Skier_down.png","skier_right1.png","skier_right2.png",
                 "skier_left2.png","skier_left1.png"]        #创建图片列表
